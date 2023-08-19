@@ -1,0 +1,14 @@
+{
+  "name": "code_backend-exercise03",
+  "version": "1.0.0",
+  "description": "Chữa bài tập về nhà backend-exercise03",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "dependencies": {
+    "cookie": "^0.5.0",
+    "serialize-javascript": "^6.0.1",
+    "url": "^0.11.1",
+    "uuid": "^9.0.0"
+  }
+}
